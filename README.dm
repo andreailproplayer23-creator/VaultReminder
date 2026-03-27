@@ -50,4 +50,4 @@ Sviluppato con passione per l'automazione e la gestione dei dati personali.
 Se il progetto ti piace, lascia una **⭐ Star** sulla repository!
 
 ---
-*Disclaimer: Lo sviluppatore non si assume responsabilità per impegni mancati dovuti a spegnimento del PC o configurazioni errate del risparmio energetico.*
+*Disclaimer*: Lo sviluppatore non si assume responsabilità per impegni mancati dovuti a spegnimento del PC o configurazioni errate del risparmio energetico.*
