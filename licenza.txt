@@ -1,0 +1,22 @@
+CONTRATTO DI LICENZA PER L'UTENTE FINALE (EULA) - Vault Reminder v4.0
+
+Si prega di leggere attentamente questo contratto prima di procedere con l'installazione. L'installazione del software implica l'accettazione integrale dei seguenti termini:
+
+1. CONCESSIONE DELLA LICENZA
+L'autore concede all'utente una licenza non esclusiva e non trasferibile per l'utilizzo di "Vault Reminder" su un singolo computer per uso personale o professionale.
+
+2. PROPRIETÀ INTELLETTUALE
+Il software, l'icona "Vault" e tutti i file correlati sono di proprietà esclusiva dello sviluppatore. È vietato decompilare, modificare o rivendere il software senza autorizzazione scritta.
+
+3. LIMITAZIONE DI RESPONSABILITÀ
+Il software viene fornito "così com'è" (AS IS). Sebbene progettato per la massima stabilità e precisione:
+
+- L'autore NON è responsabile per la perdita di dati, mancati appuntamenti o danni derivanti dal mancato funzionamento di un promemoria.
+
+- L'utente riconosce che il corretto funzionamento dipende dalla presenza del software in esecuzione e dalle impostazioni di risparmio energetico di Windows.
+
+4. PRIVACY E DATI
+Vault Reminder opera esclusivamente in locale. Nessun dato inserito nei promemoria viene inviato a server esterni o terze parti. I dati vengono salvati localmente nella cartella AppData dell'utente.
+
+5. DISINSTALLAZIONE
+L'utente può rimuovere il software in qualsiasi momento tramite il pannello di controllo di Windows o l'uninstaller incluso nella cartella di installazione.
