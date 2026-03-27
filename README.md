@@ -20,7 +20,7 @@
 
 ## 🛠️ Installazione
 
-1.  Vai nella sezione [Releases](https://github.com/andreailproplayer23-creator/Vault-Reminder/releases/latest).
+1.  Vai nella sezione [Releases](https://github.com/andreailproplayer23-creator/VaultReminder/releases)
 2.  Scarica il file `VaultReminder_Setup.exe`.
 3.  Esegui l'installer, accetta la licenza e scegli se creare un'icona sul desktop.
 4.  Lancia il programma e imposta il tuo primo allarme prioritario.
